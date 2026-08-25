@@ -8,7 +8,7 @@ This repository contains certificates and credentials I have earned through inte
 
 ## 📂 Categories
 
-### 🤖 Artificial Intelligence & Machine Learning
+## 🤖 Artificial Intelligence & Machine Learning
 
 Certificates related to:
 
@@ -17,7 +17,7 @@ Certificates related to:
 * Generative AI
 * Data Science
 
-### 💻 Programming & Development
+## 💻 Programming & Development
 
 Certificates related to:
 
@@ -26,15 +26,15 @@ Certificates related to:
 * Software Development
 * Git & GitHub
 
-### 🏢 Internships
+## 🏢 Internships
 
 Certificates from internships and practical training programs.
 
-### 🏆 Hackathons & Competitions
+## 🏆 Hackathons & Competitions
 
 Certificates and participation credentials from hackathons, coding competitions, and technical events.
 
-### 📚 Courses & Learning
+## 📚 Courses & Learning
 
 Certificates from online courses, workshops, and other technical learning programs.
 
