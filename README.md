@@ -3,7 +3,7 @@ A collection of my professional certificates and achievements, showcasing course
 The folllowing Repo Consist of The Certificates that i have got During my engineering journey
 # 🎓 Suyash Naik — Certificates
 
-Welcome to my **Certificates Repository**.
+Welcome to my Certificates Repository.
 This repository contains certificates and credentials I have earned through internships, courses, workshops, hackathons, and technical learning.
 
 ## 📂 Categories
