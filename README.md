@@ -44,7 +44,7 @@ This repository serves as a centralized collection of my technical certification
 
 I am continuously improving my skills in **AI, Data Science, Machine Learning, Python, and Software Development**.
 
-# 👨‍💻 About Me
+#👨‍💻 About Me
 
 Suyash Naik
 B.Tech/BE — Artificial Intelligence & Data Science
