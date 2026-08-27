@@ -48,7 +48,7 @@ I am continuously improving my skills in **AI, Data Science, Machine Learning, P
 
 Suyash Naik
 B.Tech/BE — Artificial Intelligence & Data Science
-Interested in **AI/ML, Data Science, Python, and Software Development**.
+Interested in AI/ML, Data Science, Python, and Software Development.
 
 ---
 
