@@ -17,7 +17,7 @@ Certificates related to:
 * Generative AI
 * Data Science
 
-# 💻 Programming & Development
+#💻 Programming & Development
 
 Certificates related to:
 
@@ -26,7 +26,7 @@ Certificates related to:
 * Software Development
 * Git & GitHub
 
-# 🏢 Internships
+#🏢 Internships
 
 Certificates from internships and practical training programs.
 
