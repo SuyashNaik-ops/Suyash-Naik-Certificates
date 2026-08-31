@@ -33,7 +33,7 @@ Certificates from internships and practical training programs.
 #🏆 Hackathons & Competitions
 
 Certificates and participation credentials from hackathons, coding competitions, and technical events.
-#Hackerank Certificate:This Certificate is About Sql
+#Hackerank Certificate:This Certificate is About Sql and Intermediate Concepts about sql i have completed it.
 
 #📚 Courses & Learning
 
