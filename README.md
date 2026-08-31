@@ -31,7 +31,7 @@ Certificates related to:
 Certificates from internships and practical training programs.
 
 #📚SQL Database
-#Hackerank Certificate:This Certificate is About Sql and Intermediate Concepts about sql i have completed it.
+#Hackerank Certificate:This Certificate is About Sql and Intermediate Concepts about sql i have completed it.I have done RDBMS with help of it.
 
 
 #🏆 Hackathons & Competitions
