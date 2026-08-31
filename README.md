@@ -33,6 +33,7 @@ Certificates from internships and practical training programs.
 #🏆 Hackathons & Competitions
 
 Certificates and participation credentials from hackathons, coding competitions, and technical events.
+#Hackerank Certificate:This Certificate is About Sql
 
 #📚 Courses & Learning
 
@@ -42,7 +43,7 @@ Certificates from online courses, workshops, and other technical learning progra
 
 This repository serves as a centralized collection of my technical certifications and learning achievements.
 
-I am continuously improving my skills in **AI, Data Science, Machine Learning, Python, and Software Development**.
+I am continuously improving my skills in AI, Data Science, Machine Learning, Python, and Software Development.
 
 #👨‍💻 About Me
 
