@@ -21,10 +21,10 @@ Certificates related to:
 
 Certificates related to:
 
-* Python
-* Web Development
-* Software Development
-* Git & GitHub
+ Python
+ Web Development
+ Software Development
+ Git & GitHub
 
 🏢 Internships
 
