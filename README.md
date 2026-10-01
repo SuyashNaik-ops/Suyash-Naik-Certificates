@@ -12,10 +12,10 @@ This repository contains certificates and credentials I have earned through inte
 
 Certificates related to:
 
-* Artificial Intelligence
-* Machine Learning
-* Generative AI
-* Data Science
+ Artificial Intelligence
+ Machine Learning
+ Generative AI
+ Data Science
 
 #💻 Programming & Development
 
