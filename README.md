@@ -38,11 +38,11 @@ Certificates from internships and practical training programs.
 
 Certificates and participation credentials from hackathons, coding competitions, and technical events.
 
-#📚 Courses & Learning
+📚 Courses & Learning
 
 Certificates from online courses, workshops, and other technical learning programs.
 
-#📌 Purpose
+📌 Purpose
 
 This repository serves as a centralized collection of my technical certifications and learning achievements.
 
