@@ -17,7 +17,7 @@ Certificates related to:
  Generative AI
  Data Science
 
-💻 Programming & Development
+💻 Programming & Development:-
 
 Certificates related to:-
 
