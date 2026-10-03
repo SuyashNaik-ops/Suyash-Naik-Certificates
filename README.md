@@ -1,4 +1,4 @@
- #Suyash-Naik-Certificates
+ Suyash-Naik-Certificates
 A collection of my professional certificates and achievements, showcasing courses, workshops, and training I have completed across programming, technology, data, and other relevant fields. This repository serves as a portfolio of my continuous learning, skills development, and commitment to expanding my knowledge.These Projects Consist of All the Certificates That i Have earned during My B.E degree
 The folllowing Repo Consist of The Certificates that i have got During my engineering journey
 🎓 Suyash Naik — Certificates
@@ -6,7 +6,7 @@ The folllowing Repo Consist of The Certificates that i have got During my engine
 Welcome to my Certificates Repository.
 This repository contains certificates and credentials I have earned through internships, courses, workshops, hackathons, and technical learning.
 
-📂 Categories
+📂 Categories:-
 
 🤖 Artificial Intelligence & Machine Learning
 
@@ -19,7 +19,7 @@ Certificates related to:
 
 💻 Programming & Development
 
-Certificates related to:
+Certificates related to:-
 
  Python
  Web Development
