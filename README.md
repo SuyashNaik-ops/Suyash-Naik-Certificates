@@ -26,7 +26,7 @@ Certificates related to:-
  Software Development
  Git & GitHub
 
-🏢 Internships
+🏢 Internships:-
 
 Certificates from internships and practical training programs.
 
@@ -34,7 +34,7 @@ Certificates from internships and practical training programs.
 #Hackerank Certificate:This Certificate is About Sql and Intermediate Concepts about sql i have completed it.I have done RDBMS with help of it.
 
 
-🏆 Hackathons & Competitions
+🏆 Hackathons & Competitions:-
 
 Certificates and participation credentials from hackathons, coding competitions, and technical events.
 
