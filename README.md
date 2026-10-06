@@ -6,7 +6,7 @@ The folllowing Repo Consist of The Certificates that i have got During my engine
 Welcome to my Certificates Repository.
 This repository contains certificates and credentials I have earned through internships, courses, workshops, hackathons, and technical learning.
 
-📂 Categories:-
+📂 Categories:
 
 🤖 Artificial Intelligence & Machine Learning
 
@@ -17,7 +17,7 @@ Certificates related to:
  Generative AI
  Data Science
 
-💻 Programming & Development:-
+💻 Programming & Development:
 
 Certificates related to:-
 
