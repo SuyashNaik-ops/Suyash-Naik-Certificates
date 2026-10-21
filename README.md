@@ -37,6 +37,7 @@ Certificates from internships and practical training programs.
 🏆 Hackathons & Competitions:
 
 Certificates and participation credentials from hackathons, coding competitions, and technical events.
+codecraft hacakthon.
 
 📚 Courses & Learning:
 
