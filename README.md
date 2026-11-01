@@ -10,7 +10,7 @@ This repository contains certificates and credentials I have earned through inte
 
 🤖 Artificial Intelligence & Machine Learning:
 
-Certificates related to:
+Certificates related to
 
  Artificial Intelligence
  Machine Learning
