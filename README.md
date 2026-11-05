@@ -19,7 +19,7 @@ Certificates related to
 
 💻 Programming & Development
 
-Certificates related to:
+Certificates related to
 
  Python
  Web Development
