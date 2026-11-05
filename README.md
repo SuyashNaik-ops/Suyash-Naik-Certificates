@@ -6,7 +6,7 @@ The folllowing Repo Consist of The Certificates that i have got During my engine
 Welcome to my Certificates Repository.
 This repository contains certificates and credentials I have earned through internships, courses, workshops, hackathons, and technical learning.
 
-📂 Categories
+📂 Categories:
 
 🤖 Artificial Intelligence & Machine Learning:
 
@@ -26,11 +26,11 @@ Certificates related to:
  Software Development
  Git & GitHub
 
-🏢 Internships:
+🏢 Internships
 
 Certificates from internships and practical training programs.
 
-📚SQL Database:
+📚SQL Database
 #Hackerank Certificate:This Certificate is About Sql and Intermediate Concepts about sql i have completed it.I have done RDBMS with help of it.
 
 
