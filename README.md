@@ -8,7 +8,7 @@ This repository contains certificates and credentials I have earned through inte
 
 📂 Categories:
 
-🤖 Artificial Intelligence & Machine Learning
+🤖 Artificial Intelligence & Machine Learning:
 
 Certificates related to
 
