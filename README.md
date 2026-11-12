@@ -47,7 +47,7 @@ codecraft hacakthon.
 
 Certificates from online courses, workshops, and other technical learning programs.
 
-📌 Purpose:
+📌 Purpose
 
 This repository serves as a centralized collection of my technical certifications and learning achievements.
 
