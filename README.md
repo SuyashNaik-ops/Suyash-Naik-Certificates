@@ -38,7 +38,7 @@ NPTEL Python For Data Science- Scored 72% in it conducted by IIT Madras.
 
 
 
-🏆 Hackathons & Competitions:
+🏆 Hackathons & Competitions
 
 Certificates and participation credentials from hackathons, coding competitions, and technical events.
 codecraft hacakthon.
